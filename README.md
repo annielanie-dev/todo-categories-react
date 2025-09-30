@@ -1,7 +1,7 @@
 # Organizer zadań (React + Vite)
 Prototyp aplikacji webowej do zarządzania zadaniami z kategoriami, priorytetem i terminem.
 
-**Demo:** https://<twoj-projekt>.netlify.app  
+**Demo:** https://todo-categories-react.netlify.app/  
 **Repo:** https://github.com/<annielanie-dev>/todo-categories-react
 
 🔍 Case study
