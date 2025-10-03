@@ -56,7 +56,7 @@ src/
 
 ## 📌 Autor
 Projekt stworzony przez **[Ania (annielanie-dev)](https://github.com/annielanie-dev)**  
-👉 Drugi projekt: [Landing page kursu](https://course-landing.netlify.app)  
+👉 Drugi projekt: [Landing page kursu](https://frontend-start.netlify.app/)  
 
 ---
 
