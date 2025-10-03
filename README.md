@@ -54,10 +54,23 @@ src/
 
 ---
 
+## 📌 Autor
+Projekt stworzony przez **[Ania (annielanie-dev)](https://github.com/annielanie-dev)**  
+👉 Drugi projekt: [Landing page kursu](https://course-landing.netlify.app)  
+
+---
+
+## 📄 Licencja
+Ten projekt dostępny na licencji [MIT](LICENSE).
+
+---
+
 ## Uruchomienie
 ```bash
 npm i
 npm run dev
 # build
 npm run build; npm run preview
+
+
 
