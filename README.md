@@ -1,8 +1,4 @@
-# Organizer zadań (React + Vite)
-Prototyp aplikacji webowej do zarządzania zadaniami z kategoriami, priorytetem i terminem.
-
-**Demo:** https://todo-categories-react.netlify.app/  
-**Repo:** https://github.com/<annielanie-dev>/todo-categories-react
+# ✅ To-Do App (React + Categories)
 
 🔍 Case study
 
@@ -15,16 +11,48 @@ Zastosowałam useReducer + localStorage do centralnego zarządzania zadaniami i 
 Efekt:
 Powstała lekka, responsywna aplikacja w React + Vite, która działa jak prawdziwy organizer. Projekt opublikowałam na GitHub i wdrożyłam na Netlify/Vercel, aby rekruter mógł od razu przetestować demo.
 
-## Funkcje
-- Kategorie: dodawanie, wybór, usuwanie (bazowa „Główne” chroniona).
-- CRUD zadań, filtrowanie (wszystkie/aktywne/ukończone), wyszukiwarka.
-- Priorytet (niski/średni/wysoki) i termin (deadline, oznaczenie „po terminie”).
-- Sortowanie: najnowsze / A–Z / ukończone na dół.
-- Eksport/Import JSON, „Przywróć dane demo”.
-- Trwałość w `localStorage`.
+---
 
-## Tech
-Vite, React, useReducer, custom hook `useLocalStorage`, czysty CSS.
+## ✨ Funkcje
+- Dodawanie, edycja, usuwanie zadań.
+- Oznaczanie jako ukończone / aktywne.
+- Kategorie (dodawanie, usuwanie, przypisywanie do zadań).
+- Filtry: wszystkie, aktywne, ukończone + wyszukiwarka.
+- Dane zapisywane w `localStorage`.
+- Czysty, responsywny interfejs.
+
+---
+
+## 🛠️ Technologie
+- **React 18** (komponenty funkcyjne, hooks)
+- **useReducer** do zarządzania stanem globalnym
+- **localStorage** do trwałości danych
+- **Vite** jako bundler
+- CSS3 (lekki dark UI)
+
+---
+
+## 🚀 Demo
+🔗 [Zobacz live na Netlify](https://todo-categories-react.netlify.app)
+
+---
+
+## 📂 Struktura projektu
+src/
+├── App.jsx
+├── main.jsx
+├── components/
+│ ├── Header.jsx
+│ ├── TodoForm.jsx
+│ ├── CategoryPicker.jsx
+│ ├── Filters.jsx
+│ ├── TodoItem.jsx
+│ └── EmptyState.jsx
+├── hooks/
+│ └── useLocalStorage.js
+└── styles.css
+
+---
 
 ## Uruchomienie
 ```bash
