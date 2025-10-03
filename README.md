@@ -54,6 +54,12 @@ src/
 
 ---
 
+## 📸 Zrzuty ekranu
+![screenshot-1](https://github.com/user-attachments/assets/3eda60ee-55bd-41a1-a9be-ae8070d4402a)
+
+
+---
+
 ## 📌 Autor
 Projekt stworzony przez **[Ania (annielanie-dev)](https://github.com/annielanie-dev)**  
 👉 Drugi projekt: [Landing page kursu](https://frontend-start.netlify.app/)  
