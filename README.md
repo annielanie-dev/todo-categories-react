@@ -32,11 +32,6 @@ Powstała lekka, responsywna aplikacja w React + Vite, która działa jak prawdz
 
 ---
 
-## 🚀 Demo
-🔗 [Zobacz live na Netlify](https://todo-categories-react.netlify.app)
-
----
-
 ## 📂 Struktura projektu
 src/
 ├── App.jsx
@@ -62,7 +57,6 @@ src/
 
 ## 📌 Autor
 Projekt stworzony przez **[Ania (annielanie-dev)](https://github.com/annielanie-dev)**  
-👉 Drugi projekt: [Landing page kursu](https://frontend-start.netlify.app/)  
 
 ---
 
