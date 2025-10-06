@@ -70,7 +70,7 @@ Ten projekt dostępny na licencji [MIT](LICENSE).
 npm i
 npm run dev
 # build
-npm run build; npm run preview
+npm run build&& npm run preview
 
 
 
