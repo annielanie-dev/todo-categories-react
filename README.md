@@ -6,10 +6,10 @@ Problem:
 Chciałam stworzyć prototyp aplikacji do zarządzania zadaniami, który będzie łączył prostotę UX z solidnym podejściem do zarządzania stanem w React.
 
 Rozwiązanie:
-Zastosowałam useReducer + localStorage do centralnego zarządzania zadaniami i kategoriami. Wprowadziłam priorytety, terminy oraz możliwość eksportu/importu JSON, aby aplikacja była bardziej realistyczna i gotowa do pokazania w portfolio.
+Zastosowałam useReducer + localStorage do centralnego zarządzania zadaniami i kategoriami. Wprowadziłam priorytety, terminy oraz możliwość eksportu/importu JSON, aby aplikacja była bardziej realistyczna.
 
 Efekt:
-Powstała lekka, responsywna aplikacja w React + Vite, która działa jak prawdziwy organizer. Projekt opublikowałam na GitHub i wdrożyłam na Netlify/Vercel, aby rekruter mógł od razu przetestować demo.
+Powstała lekka, responsywna aplikacja w React + Vite, która działa jak prawdziwy organizer. Wdrożyłam na Netlify.
 
 ---
 
